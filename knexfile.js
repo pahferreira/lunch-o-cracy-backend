@@ -3,7 +3,7 @@ module.exports = {
   development: {
     client: 'pg',
     connection: {
-      database: 'lunch-o-cracy',
+      database: 'lunch_o_cracy',
       user: 'postgres',
       password: 'postgres',
     },
